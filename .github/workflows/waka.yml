@@ -1,10 +1,10 @@
 name: Waka Update Readme
 
 on:
+  # https://crontab.cronhub.io/
   schedule:
     # Runs at 7am UTC (12am -7)
-    # https://crontab.cronhub.io/
-    - cron: "30 21 * * *"
+    - cron: "10 * * * *"
 
 jobs:
   update-readme:
