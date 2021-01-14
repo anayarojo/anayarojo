@@ -13,7 +13,7 @@ jobs:
       - uses: anayarojo/waka-readme-stats@dev
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.WT_GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: anayarojo
           SHOW_PROJECTS: "False"
           SHOW_TIMEZONE: "False"
