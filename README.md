@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0073b1?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/anayarojo/)
 [![Blog](https://img.shields.io/badge/Blog-1976d2?logo=bitbucket&style=flat-square&logoColor=white)](http://anayarojo.net/)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stackoverflow&style=flat-square&logoColor=white)](http://anayarojo.net/)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stackoverflow&style=flat-square&logoColor=white)](https://stackoverflow.com/users/3779757/anayarojo?tab=profile)
 
 ### Technologies
 ![git](https://img.shields.io/badge/git-F05133?style=flat-square&logo=git&logoColor=white)
