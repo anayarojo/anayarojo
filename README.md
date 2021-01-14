@@ -37,4 +37,8 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+```text
+C#      6 mins          ███████████████▓░░░░░░░░░   62.36 % 
+Other   2 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.03 % 
+```
 <!--END_SECTION:waka-->
