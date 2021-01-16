@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0073b1?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/anayarojo/)
 [![Blog](https://img.shields.io/badge/Blog-1976d2?logo=bitbucket&style=flat-square&logoColor=white)](http://anayarojo.net/)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stackoverflow&style=flat-square&logoColor=white)](https://stackoverflow.com/users/3779757/anayarojo?tab=profile)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-333?logo=stackoverflow&style=flat-square&logoColor=FE7A16)](https://stackoverflow.com/users/3779757/anayarojo?tab=profile)
 
 ### Technologies
 ![git](https://img.shields.io/badge/git-F05133?style=flat-square&logo=git&logoColor=white)
@@ -14,8 +14,9 @@
 ![SQL Server](https://img.shields.io/badge/SQL_Server-E02E28?style=flat-square&logo=microsoft-sql-server)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-C3002F?style=flat-square&logo=angular)
-![VueJs](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue&logoColor=white)
+![VueJs](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=222)
 ![Android](https://img.shields.io/badge/Android-78C257?style=flat-square&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java)
