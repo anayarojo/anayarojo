@@ -2,8 +2,8 @@
 *Software Engineer at [SofiaXT](https://www.sofiaxt.com/)*  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0073b1?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/anayarojo/)
-[![Blog](https://img.shields.io/badge/Blog-1976d2?logo=bitbucket&style=flat-square&logoColor=white)](http://anayarojo.net/)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-333?logo=stackoverflow&style=flat-square&logoColor=FE7A16)](https://stackoverflow.com/users/3779757/anayarojo?tab=profile)
+[![Blog](https://img.shields.io/badge/Blog-1976d2?logo=bitbucket&style=flat-square&logoColor=white)](http://anayarojo.net/)
 
 ### Technologies
 ![git](https://img.shields.io/badge/git-F05133?style=flat-square&logo=git&logoColor=white)
