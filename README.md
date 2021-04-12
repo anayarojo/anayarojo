@@ -1,5 +1,5 @@
 ### Hi there, I'm Raul Anaya Rojo
-*Software Engineer at [SofiaXT](https://www.sofiaxt.com/)*  
+*Software Engineer at [Pinnacle Aerospace Inc](http://www.pinnacleaerospace.com/)*  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0073b1?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/anayarojo/)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-333?logo=stackoverflow&style=flat-square&logoColor=FE7A16)](https://stackoverflow.com/users/3779757/anayarojo?tab=profile)
