@@ -72,3 +72,9 @@ Windows                  18 hrs 8 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
  Last Updated on 13/08/2023 18:16:37 UTC
 <!--END_SECTION:waka-->
+
+### Links
+
+[Play my video game](https://sopam.vercel.app/)
+
+
