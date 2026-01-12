@@ -3,7 +3,7 @@ name: Waka Update Readme
 on:
   # https://crontab.cronhub.io/
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: '0 */1 * * *'
 
 jobs:
   update-readme:
